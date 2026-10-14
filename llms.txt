@@ -1,0 +1,182 @@
+# Sofía Gil
+
+> Diseñadora UX/UI y product designer en Ciudad Autónoma de Buenos Aires, Argentina. Diseña productos digitales de punta a punta (research, flujos, interfaces, prototipos y testeo), sitios institucionales y tiendas online. Estudia la Licenciatura en Curaduría de Artes en la UNA y piensa cada pantalla como una sala de museo.
+
+- Web: https://sofiaericagil.github.io/Sofiaericagil/
+- Portfolio en Behance: https://www.behance.net/sofiagil4
+- LinkedIn: https://www.linkedin.com/in/sofiaericagil
+- Email: gilsofiaerica@gmail.com
+- CV (PDF): https://sofiaericagil.github.io/Sofiaericagil/assets/Sofia_Gil_CV.pdf
+
+## Datos clave
+- Rol actual: Diseñadora UX/UI — Web & Ecommerce en Gurú Soluciones (desde agosto de 2025).
+- Antes: Product Designer en Goosebelt (nov. 2024 – feb. 2026), donde lideró proyectos B2B de inicio a fin; Diseñadora UX/UI en Kiura (abr. 2024 – nov. 2024).
+- Formación: Lic. en Curaduría de Artes (UNA, en curso), Diseño UI Avanzado (Educación IT), Diseño UX/UI (Digital House).
+- Herramientas: Figma, Sketch, Framer, Illustrator, Wix, Duda, Hotjar, Maze, HTML/CSS, GitHub, Claude Code.
+- También ofrece a artistas: identidad visual, página web y galería virtual.
+
+## Contenido completo del sitio
+
+> El arte me enseñó a mirar, el UX a hacer que otros lo usen.
+
+Diseño productos digitales y estudio Curaduría de Artes. Pienso cada pantalla como una sala de museo: qué ves primero, qué descubrís después.
+
+## ¡Hola, soy Sofía!
+
+Tengo 25 años y vivo en Ciudad Autónoma de buenos Aires. Diseño productos digitales, estudio Curaduría de Artes y creo que una buena interfaz se disfruta como una buena muestra.
+
+Soy diseñadora UX/UI y product designer. Hace más de dos años que me adentro en productos digitales de punta a punta: hablo con usuarios, diagramo flujos, diseño interfaces, prototipo y testeo hasta que todo cierra.
+
+Hoy estoy en Gurú Soluciones diseñando sitios y tiendas online. Antes, en Goosebelt, lideré proyectos B2B de inicio a fin, muchos de ellos desde cero: arrancar con la hoja en blanco, entender cómo trabaja cada equipo y convertir eso en herramientas que se usan todos los días. Me involucro en todo el proceso, desde la primera entrevista con usuarios hasta la entrega a desarrollo, trabajando codo a codo con negocio y tecnología.
+
+Mi camino no fue lineal. Pasé por Ingeniería en Sistemas y por Administración antes de caer en el diseño, y me quedé con lo mejor de cada una: lógica, mirada de negocio y mucha curiosidad por las personas. La curaduría es la pieza que faltaba para contar todo eso con más sentido.
+
+## ¿Y qué hace una diseñadora estudiando curaduría?
+
+Buena pregunta. Me la hice yo también, durante bastante tiempo: ¿cómo junto el arte con el mundo tech sin que ninguno de los dos se ofenda?
+
+Resulta que ya estaban más cerca de lo que parecía. Un curador decide qué mostrar, en qué orden y hacia dónde va tu mirada. Yo hago lo mismo, pero con pantallas. Los dos pensamos en recorridos, en jerarquías y en la persona que entra por la puerta (o hace scroll).
+
+Así que no, no estoy abandonando el mundo tech, sumo la curaduría para diseñar con más relato y tratar cada producto como una muestra que vale la pena recorrer.
+
+> “Diseñar una interfaz es curar una experiencia: elegir qué se ve, cuándo y por qué.”
+
+## Afiches de la muestra
+
+Cada proyecto, una obra. Deslizá o pasá el mouse para desplegar la colección.
+
+01 Food Go POS
+
+02 Fluiana Página web y app
+
+03 Mercado Play UX challenge
+
+04 Goosebelt Landing page
+
+[Ver portfolio completo](https://www.behance.net/sofiagil4)
+
+### Food Go
+
+POS gastronómico
+
+[Ver más sobre Food Go en Behance](https://www.behance.net/gallery/226891961/Food-go-POS-system)
+
+### Fluiana
+
+App de salud · Proyecto propio
+
+[Ver más sobre Fluiana en Behance](https://www.behance.net/gallery/224790659/Fluiana-UXUI-Case-Study)
+
+### Mercado Play
+
+Desafío técnico UX
+
+[Ver más sobre Mercado Play en Behance](https://www.behance.net/gallery/254310025/Desafio-tcnico-UX-Mercado-Play)
+
+### Goosebelt Landing
+
+Landing page
+
+[Ver más sobre Goosebelt Landing en Behance](https://www.behance.net/gallery/208685661/Goosebelt-Landing-page-design)
+
+## La muestra en movimiento
+
+Así se ven mis proyectos cuando alguien los usa de verdad.
+
+### Región Sport
+
+Ecommerce orientado a la venta de buzos deportivos personalizados.
+
+### IncluiTE librería
+
+Ecommerce que integra artículos de librería inclusivos para todas las infancias.
+
+## Lo que vengo construyendo
+
+AGO. 2025 – HOY Diseñadora UX/UI — Web & Ecommerce Gurú Soluciones Diseño sitios institucionales y tiendas online en Wix y Duda. Me siento con cada cliente, entiendo qué necesita su negocio y lo convierto en una web clara, que vende y se ve bien en cualquier pantalla.
+
+NOV. 2024 – FEB. 2026 Product Designer Goosebelt Lideré proyectos B2B desde la idea hasta la solución digital: trato directo con el cliente, investigación con usuarios y testeos para validar cada decisión.
+
+ABR. 2024 – NOV. 2024 Diseñadora UX/UI Kiura Mi primera gran escuela en equipo ágil: wireframes, prototipos, muchas iteraciones y workshops de descubrimiento con clientes y devs.
+
+### Formación
+
+Lic. en Curaduría de Artes UNA · en curso
+
+Diseño UI Avanzado Educación IT
+
+Diseño UX/UI Digital House
+
+[Descargar CV de Sofía Gil (PDF)](assets/Sofia_Gil_CV.pdf)
+
+## Mi caja de herramientas y pinceles
+
+Research & UX Entrevisto, testeo y miro mapas de calor en Hotjar y Maze hasta encontrar dónde se traba la gente.
+
+UI & prototipos Interfaces en Figma con auto-layout, variables y prototipos que se sienten reales antes de escribir una línea de código.
+
+Design systems Componentes ordenados y accesibles, para que el producto crezca sin volverse un rompecabezas.
+
+Web & ecommerce Sitios y tiendas en Wix, Duda y Framer que venden y que el cliente puede manejar solo.
+
+Producto end-to-end Del primer workshop a la entrega a desarrollo, hablando el idioma de negocio y de tecnología.
+
+### CAJA DE HERRAMIENTAS
+
+Figma
+
+Sketch
+
+Framer
+
+Illustrator
+
+Wix
+
+Duda
+
+Hotjar
+
+Maze
+
+HTML/CSS
+
+GitHub
+
+Claude Code
+
+## Cuando apago la compu
+
+Porque no todo es Figma. Esto también soy yo:
+
+Lectora de rusos, sin remedio Dostoievski, Tolstói y también los contemporáneos. Si un libro tiene 800 páginas, nombres imposibles y algún drama existencial, ya me ganaste.
+
+Mamá de dos hijas gatunas Dueñas de la casa, del sillón y, cuando se les da la gana, del teclado.
+
+Club de Lectura Artemisa Desde 2024 coordino mi propio club de lectura. Nos juntamos, debatimos, a veces discutimos fuerte y siempre salimos con una lista nueva de libros por leer.
+
+Gamer Los videojuegos son mi plan favorito para desenchufar. Una partida más y me voy a dormir (spoiler: nunca es una sola).
+
+Libros largos, partidas largas y dos gatas con mucha opinión. Eso, más o menos, soy yo.
+
+## Tu obra merece su propia sala
+
+Acompaño a artistas a llevar su obra al mundo digital: desde cómo se presenta hasta dónde se la ve.
+
+01 Identidad visual Construimos juntos tu identidad visual: logo, paleta, tipografías y un sistema visual que refleje tu obra.
+
+02 Página web Diseño tu web como un espacio de exhibición: tu historia, tu obra y una forma clara de que te contacten o te compren.
+
+03 Galería virtual Llevo tu obra a una galería online para que cualquiera, en cualquier parte del mundo, la recorra como si estuviera en la sala.
+
+¿Sos artista y querés mostrar tu obra al mundo?
+
+## ¿Armamos algo juntos?
+
+Si tenés un proyecto, una vacante o una recomendación de novela rusa, mi bandeja está abierta.
+
+[gilsofiaerica@gmail.com](mailto:gilsofiaerica@gmail.com)
+
+[Behance](https://www.behance.net/sofiagil4) · [LinkedIn](https://www.linkedin.com/in/sofiaericagil)
+
+Diseñado y curado por Sofía Gil · Hecho con vibecoding a través de Claude.ai · 2026
